@@ -8,21 +8,21 @@ LINK DO CURRICULO LATTES:
 LINKS DOS REPOSITÓRIOS
 
 
-REPOSITÓRIO BANCO DE DADOS:
+📘 - REPOSITÓRIO BANCO DE DADOS:
 * https://github.com/Daniel-naro/Repositor_io_BancoDeDados./tree/main
 
 
-REPOSITÓRIO DE ALGORITMOS:
+📘 - REPOSITÓRIO DE ALGORITMOS:
 * https://github.com/Daniel-naro/Repositor_io_Algoritmos
 
 
 
-REPOSITÓRIO DE FRONT END:
+📘 - REPOSITÓRIO DE FRONT END:
 * https://github.com/Daniel-naro/Repositor_io_FrontWeb.
 
 
 
-LINK DO PORTIFÓLIO DESENVOLVIDO EM SALA:
+📘 - LINK DO PORTIFÓLIO DESENVOLVIDO EM SALA:
 * https://github.com/Daniel-naro/Portif-lio
 
 
