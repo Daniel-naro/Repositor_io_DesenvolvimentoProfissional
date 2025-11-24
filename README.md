@@ -5,19 +5,19 @@ Repositório de desenvolvimento profissional, contendo um resumo de tudo que tra
 LINK DO CURRICULO LATTES:
 * https://lattes.cnpq.br/4262703852667952
 
-LINKS DOS REPOSITORIOS
+LINKS DOS REPOSITÓRIOS
 
 
-REPOSITORIO BANCO DE DADOS:
+REPOSITÓRIO BANCO DE DADOS:
 * https://github.com/Daniel-naro/Repositor_io_BancoDeDados./tree/main
 
 
-REPOSITORIO DE ALGORITMOS:
+REPOSITÓRIO DE ALGORITMOS:
 * https://github.com/Daniel-naro/Repositor_io_Algoritmos
 
 
 
-REPOSITORIO DE FRONT END:
+REPOSITÓRIO DE FRONT END:
 * https://github.com/Daniel-naro/Repositor_io_FrontWeb.
 
 
